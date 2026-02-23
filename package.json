@@ -1,6 +1,6 @@
 {
   "name": "notification-service",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Notification Service handles email, SMS, and system notifications for users.",
   "main": "index.js",
   "scripts": {
